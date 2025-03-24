@@ -18,3 +18,7 @@ As a key deliverable, I developed a well-documented Python Notebook, containing 
 Through this hands-on experience, I gained a deeper understanding of distributed computing, data optimization strategies, and performance tuning in Big Data environments. This project has significantly contributed to my knowledge as an aspiring Data Analyst, equipping me with practical skills in Big Data processing, data-driven decision-making, and scalable analytics solutions.
 
 ##OUTPUT:
+![Image](https://github.com/user-attachments/assets/147edd13-89ed-4357-900d-18d0d6ab1fc7)
+![Image](https://github.com/user-attachments/assets/75f9f511-bedc-497a-abf2-389d2334efee)
+![Image](https://github.com/user-attachments/assets/3276eef7-a5b7-44af-8550-cc209cf14e55)
+![Image](https://github.com/user-attachments/assets/444d6ac1-5bb1-4a78-9e21-b1a9f92cc911)
